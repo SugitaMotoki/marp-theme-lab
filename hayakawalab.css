@@ -1,0 +1,13 @@
+/* @theme hayakawalab */
+
+@import "gaia";
+
+header {
+	width: 100%;
+	position: absolute;
+	top: unset;
+	bottom: 21px;
+	left: 0;
+	text-align: center;
+	font-size: 80%;
+}
